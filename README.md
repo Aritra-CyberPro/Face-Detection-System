@@ -1,11 +1,11 @@
-## Simple Face Detection System
+# Simple Face Detection System
 
 ![Screenshot 2024-07-23 024717](https://github.com/user-attachments/assets/e625e2f8-d0f7-4e81-b001-a54ac0b5b7cc)
 
-# Overview
+## Overview
 A simple Face Detection System designed to detect and recognize faces in images or video streams. 
 
-# Features
+## Features
 1. **Real-time Face Detection:** Detects faces in live video streams with high accuracy.
 2. **Image Processing:** Analyzes and detects faces in static images.
 
