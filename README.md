@@ -19,14 +19,14 @@ A simple Face Detection System designed to detect and recognize faces in images 
 
 ## Clone in your system
 ```
-https://github.com/Aritra-ISS/Face-Detection-System.git
+https://github.com/Aritra-CyberPro/Face-Detection-System.git
 ```
 
 # Contributing
 We welcome contributions to the Face Detection System. If you have suggestions, bug reports, or feature requests, please open an issue or submit a pull request on our GitHub repository.
 
 # License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Aritra-ISS/Face-Detection-System/blob/main/LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Aritra-CyberPro/Face-Detection-System/blob/main/LICENSE) file for more details.
 
 ## Author
-[@Aritra-ISS](https://github.com/Aritra-ISS)
+[@Aritra](https://github.com/Aritra-CyberPro)
