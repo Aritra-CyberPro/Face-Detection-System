@@ -19,7 +19,7 @@ A simple Face Detection System designed to detect and recognize faces in images 
 
 ## Clone in your system
 ```
-https://github.com/Aritra-CyberPro/Face-Detection-System.git
+git clone https://github.com/Aritra-CyberPro/Face-Detection-System.git
 ```
 
 # Contributing
